@@ -1,4 +1,4 @@
-# WARM UP
+ # WARM UP
 
 * If the hunger level of a virtual pet is initially set to 50 and the pet 
 eats 15 units of food, what is the new hunger level of the pet?

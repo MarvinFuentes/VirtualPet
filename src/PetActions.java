@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public interface PetActions {
+public interface PetActions {
+    void feed();
+    void drink();
+    void play();
+
 }
